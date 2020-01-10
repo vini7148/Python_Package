@@ -29,7 +29,7 @@ To install this python package, execute the following commands in your cli or cm
 python test.py
 ```
 
-![test](https://github.com/vini7148/)
+![test](https://github.com/vini7148/py_package_1/blob/master/ss/test.png)
 
 This step is to ensure that the package is not broken, if there is no error in the above step procced, else remove the broken package and download it again
 
@@ -37,7 +37,7 @@ This step is to ensure that the package is not broken, if there is no error in t
 python setup.py install
 ```
 
-![setup](https://github.com/vini7148/)
+![setup](https://github.com/vini7148/py_package_1/blob/master/ss/setup.png)
 
 If no errors are shown your are ready to use this package in your system
 
