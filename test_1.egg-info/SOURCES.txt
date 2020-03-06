@@ -1,0 +1,9 @@
+setup.py
+test_1/__init__.py
+test_1/file_1.py
+test_1/file_2.py
+test_1.egg-info/PKG-INFO
+test_1.egg-info/SOURCES.txt
+test_1.egg-info/dependency_links.txt
+test_1.egg-info/not-zip-safe
+test_1.egg-info/top_level.txt
