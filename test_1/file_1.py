@@ -3,11 +3,20 @@ from datetime import datetime as dt
 def time():
     return dt.now()
 
-def sum(a, b):
-    su = a + b
+def sum(*args):
+    args = list(args)
+    su = 0
+    for i in args:
+        su += i
+    # su = a + b
     return su
 
-def avg(a, b):
-    su = sum(a, b)
-    su = su / 2
+def avg(*args):
+    args = list(args)
+    su = 0
+    co = 0
+    for i in args:
+        su += i
+        co += 1
+    su /= co
     return su
