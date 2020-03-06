@@ -76,7 +76,7 @@ or
 ```
 sum(a, b)
 ```
-This function returns the sum two numbers that are passed as it's arrguments.
+This function returns the sum of a list of numbers that are passed as it's arrguments and are seprated by commas(",").
 Note: You might want to use this function in a print command to output the sum
 
 * AVG
@@ -87,7 +87,7 @@ or
 ```
 avg(a, b)
 ```
-This function returns the average two numbers that are passed as it's arrguments.
+This function returns the average of a list of numbers that are passed as it's arrguments and are seprated by commas(",").
 Note: You might want to use this function in a print command to output the avg
 
 * HW
